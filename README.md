@@ -4,13 +4,15 @@ follow these steps to setup
 
 `python3 -m venv venv`
 
+`pip install requirements.txt`
+
 `yarn`
 
 ## to start development mode
 
 first activate virtual environment
 
-`python3 venv/bin/activate`
+`source venv/bin/activate`
 
 then
 
