@@ -1,0 +1,12 @@
+{
+  "name": "django-boilerplate",
+  "version": "1.0.0",
+  "description": "boilerplate",
+  "main": "src/js/index.js",
+  "author": "Ahmet Aykut Ay (ahmetaykutay@gmail.com))",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "webpack": "^4.28.4"
+  }
+}
